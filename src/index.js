@@ -53,7 +53,7 @@ const updateTodo = (text) => {
 
         let todoTitle = todo.querySelector("h3")
 
-        if(todoTitle.innerText === oldInputValue) {
+        if (todoTitle.innerText === oldInputValue) {
             todoTitle.innerText = text
         }
     })
