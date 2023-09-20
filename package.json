@@ -1,0 +1,12 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Aplicação de Lista de Tarefas (To-Do List)\r Esta é uma aplicação simples de lista de tarefas (To-Do List) criada em JavaScript, HTML e CSS. Esta aplicação permite que você adicione, edite, conclua e remova tarefas da sua lista de afazeres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
